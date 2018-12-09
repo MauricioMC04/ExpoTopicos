@@ -1,0 +1,20 @@
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue\ChatMessageQueue\bin\Debug\ChatMessageQueue.exe.config
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue\ChatMessageQueue\bin\Debug\ChatMessageQueue.exe
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue\ChatMessageQueue\bin\Debug\ChatMessageQueue.pdb
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue\ChatMessageQueue\obj\Debug\ChatMessageQueue.csprojAssemblyReference.cache
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue\ChatMessageQueue\obj\Debug\ChatMessageQueue.Properties.Resources.resources
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue\ChatMessageQueue\obj\Debug\ChatMessageQueue.csproj.GenerateResource.cache
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue\ChatMessageQueue\obj\Debug\ChatMessageQueue.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue\ChatMessageQueue\obj\Debug\ChatMessageQueue.exe
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue\ChatMessageQueue\obj\Debug\ChatMessageQueue.pdb
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue - Copy\ChatMessageQueue\bin\Debug\ChatMessageQueue.exe.config
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue - Copy\ChatMessageQueue\bin\Debug\ChatMessageQueue.exe
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue - Copy\ChatMessageQueue\bin\Debug\ChatMessageQueue.pdb
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue - Copy\ChatMessageQueue\obj\Debug\ChatMessageQueue.csprojAssemblyReference.cache
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue - Copy\ChatMessageQueue\obj\Debug\ChatMessageQueue.Form1.resources
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue - Copy\ChatMessageQueue\obj\Debug\ChatMessageQueue.Properties.Resources.resources
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue - Copy\ChatMessageQueue\obj\Debug\ChatMessageQueue.csproj.GenerateResource.cache
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue - Copy\ChatMessageQueue\obj\Debug\ChatMessageQueue.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue - Copy\ChatMessageQueue\obj\Debug\ChatMessageQueue.exe
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue - Copy\ChatMessageQueue\obj\Debug\ChatMessageQueue.pdb
+C:\Users\Josue\Documents\U\Topicos Selectos\Expo\ChatMessageQueue\ChatMessageQueue\obj\Debug\ChatMessageQueue.Chat.resources
